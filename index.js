@@ -26,5 +26,5 @@ app.post('/task',(req,res)=>{
 
 
 app.listen(process.env.PORT || 3000,()=>{
-    console.log("Server isgg runing");
+    console.log("Server is runing");
 })
